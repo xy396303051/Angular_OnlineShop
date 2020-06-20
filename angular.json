@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TheWT"
+    }
+  },
+  "defaultProject": "TheWT",
+  "cli": {
+    "analytics": "18d412f5-0b24-4581-a85f-6c7c623f67d8"
+  }
 }
